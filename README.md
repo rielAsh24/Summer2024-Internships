@@ -2,7 +2,6 @@
 
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
-
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
 🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
@@ -10,6 +9,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
+
 <div align="center">
 	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
 	<p>
@@ -48,15 +48,17 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 ## The List 🚴🏔
 
 ### Legend
- - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Internship application is closed
+
+- 🛂 - Does NOT offer Sponsorship
+- 🇺🇸 - Requires U.S. Citizenship
+- 🔒 - Internship application is closed
 
 > For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
 
 > For new-grad tech jobs, check out [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -815,6 +817,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
+
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
